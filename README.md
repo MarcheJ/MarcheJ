@@ -1,6 +1,6 @@
 ### Olá, eu sou João Marchette e bem-vindo(a) ao meu perfil 👾
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarchette&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarchette&layout=compact&theme=tokyonight)
 
 ![JMarchette GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarchette&show_icons=true&theme=tokyonight&hide=stars,issues,prs)
 
