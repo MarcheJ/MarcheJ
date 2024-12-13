@@ -7,7 +7,7 @@
 ## 👾Sobre mim | About me:
   Português: Estudante de Análise e Desenvolvimento de Sistemas, com conhecimento em programação e experiência profissional na área de logística na empresa Atlas Schindler e experiência em desenvolvimento no Tribunal de Justiça de São Paulo.
   
-  English: Student of Systems Analysis and Development, with knowledge in programming and professional experience in the logistics area at Atlas Schindler and experience in development at the Court of Justice of São Paulo.
+  English: Student of Systems Analysis and Development, with knowledge in programming and professional experience in the logistics area at Atlas Schindler and experience in development at the Tribunal de Justiça de São Paulo.
   <br><br>
 </h1>
 
