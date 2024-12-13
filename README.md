@@ -5,9 +5,9 @@
   ![JMarchette GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarchette&show_icons=true&theme=tokyonight&hide=stars,issues,prs)
   <br>
 ## 👾Sobre mim | About me:
-  Português: Estudante de Análise e Desenvolvimento de Sistemas, com conhecimento em programação e experiência profissional na Atlas Schindler e no Tribunal de Justiça de São Paulo.
+  Português: Estudante de Análise e Desenvolvimento de Sistemas, com conhecimento em programação e experiência profissional na área de logística na empresa Atlas Schindler e experiência em desenvolvimento no Tribunal de Justiça de São Paulo.
   
-  English: Systems Analysis and Development student, with programming knowledge and professional experience at Atlas Schindler and in the TJSP (São Paulo's Court of Justice)
+  English: Student of Systems Analysis and Development, with knowledge in programming and professional experience in the logistics area at Atlas Schindler and experience in development at the Court of Justice of São Paulo.
   <br><br>
 </h1>
 
