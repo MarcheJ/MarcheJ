@@ -42,6 +42,21 @@
   ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
   ![VirtualBox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
   
+  ## 📚Idiomas | Languages:
+ <img src="https://github.com/user-attachments/assets/9edebd36-18ce-4901-880e-4789a685ab40" width="80" />
+ <br>
+ Nível de Português | Portuguese proficiency: Native
+ <br>
+ <br>
+ <img src="https://github.com/user-attachments/assets/4bd50f83-388a-4834-a2ab-a9aa06976123" width="80"/>
+ <br>
+ Nível de Inglês | English proficiency: B2 certified (TOEIC Exam)
+ <br>
+ <br>
+ <img src="https://github.com/user-attachments/assets/5351e567-fc9c-48b4-bbb4-94465dc9981b" width="80"/>
+  <br>
+ Nível de Italiano | Italian proficiency: A1-A2 Non-certified
+
   
   ## 📲Contato | Contact:
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marchette-6659861b5/)
