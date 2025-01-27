@@ -1,8 +1,8 @@
 <h1 align="center"> Olá, eu sou João e bem-vindo(a) ao meu perfil 👾 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarchette&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcheJ&layout=compact&theme=tokyonight)
   
-  ![JMarchette GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarchette&show_icons=true&theme=tokyonight&hide=stars,issues,prs)
+  ![JMarchette GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcheJ&show_icons=true&theme=tokyonight&hide=stars,issues,prs)
   <br>
 ## 👾Sobre mim | About me:
   Português: Estudante de Análise e Desenvolvimento de Sistemas, com conhecimento em programação e experiência profissional na área de logística na empresa Atlas Schindler e experiência em desenvolvimento no Tribunal de Justiça de São Paulo.
