@@ -1,10 +1,13 @@
 <h1 align="center"> Olá, eu sou João e bem-vindo(a) ao meu perfil 👾 </h1>
 
 ## 👾Sobre mim | About me:
-  Português: Estudante de Análise e Desenvolvimento de Sistemas, certificado como apresentador no XII Simgetec de 2022, certificado pelo Samsung Innovation Campus, com conhecimento em linguagens como Java, C, Kotlin, JavaScript e tecnologias web e experiência profissional com C#, framework .NET no TJSP e experiência com Power BI e DAX na Atlas Schindler. 
-  <br>  
-  English: Student of Systems Analysis and Development, certified as a presenter at the XII Simgetec in 2022, certified by Samsung Innovation Campus, with knowledge in programming languages such as Java, C, Kotlin, JavaScript, and web technologies, as well as professional experience with C#, .NET framework at TJSP, and experience with Power BI and DAX at Atlas Schindler.
-  
+<p align="center">
+  Português: Estudante de Análise e Desenvolvimento de Sistemas, certificado como apresentador no XII Simgetec de 2022, certificado pelo Samsung Innovation Campus, com conhecimento em linguagens como Java, C, Kotlin, JavaScript e tecnologias web e experiência profissional com C#, framework .NET e experiência com Power BI e DAX. 
+  <br>
+  <br>
+  English: Student of Systems Analysis and Development, certified as a presenter at the XII Simgetec in 2022, certified by Samsung Innovation Campus, with knowledge in programming languages such as Java, C, Kotlin, JavaScript, and web technologies, as well as professional experience with C#, .NET framework and experience with Power BI and DAX.
+</p>
+
   ## 🖥️Tecnologias de desenvolvimento | Development technologies:
   <p align="center">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -71,7 +74,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcheJ&layout=compact&theme=tokyonight" alt="Top Langs">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcheJ&show_icons=true&theme=tokyonight&hide=stars,issues,prs" alt="JMarchette GitHub stats">
+    
   </p>
 
  
