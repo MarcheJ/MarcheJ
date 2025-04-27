@@ -2,10 +2,10 @@
 
 ## 👾Sobre mim | About me:
 <p align="center">
-  Português: Estudante de Análise e Desenvolvimento de Sistemas, certificado como apresentador no XII Simgetec de 2022, certificado pelo Samsung Innovation Campus, com conhecimento em linguagens como Java, C, Kotlin, JavaScript e tecnologias web e experiência profissional com C#, framework .NET e experiência com Power BI e DAX. 
+  Português: Estudante de Análise e Desenvolvimento de Sistemas, certificado como apresentador no XII Simgetec de 2022, certificado pelo Samsung Innovation Campus em Python e introdução a IA, com conhecimento em linguagens como Java, C, Kotlin, JavaScript e tecnologias web e experiência profissional com C#, framework .NET e experiência com Power BI e DAX. 
   <br>
   <br>
-  English: Student of Systems Analysis and Development, certified as a presenter at the XII Simgetec in 2022, certified by Samsung Innovation Campus, with knowledge in programming languages such as Java, C, Kotlin, JavaScript, and web technologies, as well as professional experience with C#, .NET framework and experience with Power BI and DAX.
+  English: Student of Systems Analysis and Development, certified as a presenter at the XII Simgetec in 2022, certified by Samsung Innovation Campus in the Python Programming and AI introduction, with knowledge in programming languages such as Java, C, Kotlin, JavaScript, and web technologies, as well as professional experience with C#, .NET framework and experience with Power BI and DAX.
 </p>
 
   ## 🖥️Tecnologias de desenvolvimento | Development technologies:
