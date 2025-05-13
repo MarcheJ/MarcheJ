@@ -53,15 +53,15 @@
   <p align="center">
     <img src="https://github.com/user-attachments/assets/9edebd36-18ce-4901-880e-4789a685ab40" width="80" />
     <br>
-    Nível de Português | Portuguese proficiency: Native
+    Nível de Português: Nativo | Portuguese proficiency: Native
     <br><br>
     <img src="https://github.com/user-attachments/assets/4bd50f83-388a-4834-a2ab-a9aa06976123" width="80"/>
     <br>
-    Nível de Inglês | English proficiency: B2 certified (TOEIC Exam)
+    Nível de Inglês: B2 Certificado | English proficiency: B2 certified (TOEIC Exam)
     <br><br>
     <img src="https://github.com/user-attachments/assets/5351e567-fc9c-48b4-bbb4-94465dc9981b" width="80"/>
     <br>
-    Nível de Italiano | Italian proficiency: A1-A2 Non-certified
+    Nível de Italiano: A1-A2 Não certificado | Italian proficiency: A1-A2 Non-certified
   </p>
 
  ## 📲Contato | Contact:
