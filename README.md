@@ -2,7 +2,7 @@
 
 ## 👾Sobre mim | About me:
 <p align="center">
-  Português: Formado Análise e Desenvolvimento de Sistemas pela FATEC, certificado como apresentador no XII Simgetec de 2022, certificado pelo Samsung Innovation Campus em Python e introdução a IA, com conhecimento em linguagens como Java, C, Kotlin, JavaScript e tecnologias web e experiência profissional com C#, framework .NET, Power BI e DAX. 
+  Português: Formado em Análise e Desenvolvimento de Sistemas pela FATEC, certificado como apresentador no XII Simgetec de 2022, certificado pelo Samsung Innovation Campus em Python e introdução a IA, com conhecimento em linguagens como Java, C, Kotlin, JavaScript e tecnologias web e experiência profissional com C#, framework .NET, Power BI e DAX. 
   <br>
   <br>
   English: Graduated in Systems Analysis and Development through FATEC, certified as a presenter at the XII Simgetec in 2022, certified by Samsung Innovation Campus in the Python Programming and AI introduction, with knowledge in programming languages such as Java, C, Kotlin, JavaScript, and web technologies, as well as professional experience with C#, .NET framework, Power BI and DAX.
